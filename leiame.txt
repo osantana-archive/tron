@@ -1,0 +1,57 @@
+€ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ€
+€       ﬂﬂﬂﬂﬂﬂ  ﬂﬂﬂﬂﬂ‹  ‹ﬂﬂﬂﬂ‹  €‹   €  =  Uma OdissÇia eletrìnica.           €
+€        €      ‹‹‹‹‹ﬂ  €    €  € ﬂ‹ €  =  Jogo Desenvolvido por:             €
+€        ﬂ‹‹‹‹     ﬂ‹   ﬂ‹‹‹‹ﬂ  €   ﬂ€  =  Osvaldo Santana Neto.              €
+€‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹€
+
+   Este jogo foi desenvolvido todo em Pascal 7.0 e compilado com o Pascal 6.0.
+A seguir apresento a lista de arquivos necess·rios para a execuÁ„o do jogo:
+
+   MUSIC01.DAT - Arquivos com musicas.
+       :
+   MUSIC05.DAT - Arquivos com musicas.
+   TRON.EXE    - Arquivo com o jogo.
+   TRON.OVL    - Arquivo overlay para execuáÑo da m£sica.
+   EGAVGA.BGI  - Driver de v°deo para placas VGA.
+   TRIP.CHR    - Fonte de letras Triplex utilizada no jogo.
+   
+   Os requisitos de hardware s„o os seguintes:
+   
+   Processador 386 SX
+   512 Kb de mem¢ria livre (principal)
+   Mouse
+   Placa VGA (640x480x16)
+   Sound Blaster
+
+   Este software È de DomÌnio P˙blico.
+      
+RecomendaÁıes:
+   Para uma melhor performance deste jogo, carregue apenas os drivers
+   necess†rios para o Mouse e para a Sound Blaster. N„o carregue HIMEM
+   nem o EMM386 ou QEMM386
+
+Problemas j· constatados:
+
+ 1ß) Quando ocorre uma trombada de frente, o vencedor, ser†
+     sempre a moto vermelha.
+ 2ß) Certas vezes ocorre das duas motos se cruzarem e nenhuma
+     delas bater.
+ 3ß) Neste programa È utilizada a biblioteca Goldplay para a
+     execuÁ„o de m˙sicas no formado MOD, provavelmente devido a
+     esse fato, este programa pode travar em computadores que n„o
+     sejam 386.
+
+Agradecimentos:
+
+   Teenagers Associates, Spooler Magazine, Hugo Ferreira, Luiz Carlos Ferreira
+   J˙nior (SZSOMOHZ3!) que est· internado no SZSPITAL, Gustavo Paes Oliveira, 
+   Marcus FabrÌzio Marquiori, KÛlem T·paro.
+
+   Se algum bug for constatado, contacte:
+   Osvaldo Santana Neto
+   Rua Sinsei Toma, 369 - CEP 15040-410
+   Jd. Vetorazzo - S„o JosÈ do Rio Preto - SP
+   Telefone: (017) 237-8353
+   e-mail: acidbase@netscape.net
+   
+
